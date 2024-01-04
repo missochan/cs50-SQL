@@ -2,8 +2,6 @@
 
 By Olivia Chan
 
-Video overview: <https://youtu.be/XeVu74AGn4Y>
-
 ## Scope
 
 The database for Survey SQL includes all entities necessary to facilitate the process of tracking manager's progress in following up client's response to our survey after making a purchase, and help managers to track the both the survey and corresponding transaction detail. As such, included in the database's scope is:
